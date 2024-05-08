@@ -6,6 +6,9 @@
   EOS Integration Kit Example Project
   <br>
 </h1>
+<p align="center">
+* Project build with Unreal Engine 5.3.
+</p>
 
 <p align="center">
   <a href="#key-examples">Key Examples</a> •
